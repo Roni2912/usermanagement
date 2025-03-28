@@ -28,8 +28,10 @@ npm run dev
 
 🔑 **Login Credentials**
 Use these credentials to log in:
+```
 Email: eve.holt@reqres.in
 Password: cityslicka
+```
 
 ## 🚀 Features
 
